@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Full Stack Developer with experience in developing modern web applications and AI-driven solutions. Skilled in Python, Django, JavaScript, HTML, CSS, Bootstrap, Git, and MySQL, I enjoy building efficient, scalable, and user-centric applications.  I'm constantly expanding my expertise in full-stack development, modern web technologies while working on projects that solve real-world problems.
+I'm a passionate Full Stack Developer with experience in developing modern web applications and AI-driven solutions. I'm skilled in Python, Django, JavaScript, HTML, CSS, Bootstrap, Git, and MySQL, I enjoy building efficient, scalable, and user-centric applications.  I'm constantly expanding my expertise in full-stack development, modern web technologies while working on projects that solve real-world problems.
 
 
 ## 🌐 Links:
